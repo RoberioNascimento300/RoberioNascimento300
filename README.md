@@ -5,6 +5,8 @@
 
 ![Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=RoberioNascimento300&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"></br>
@@ -17,9 +19,10 @@
          <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
          <img align="center" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
          <img align="center" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+
+         
          
 </div><br><br>
-
 
 Apaixonado por Tecnologia e prestando suporte ágil ao usuário final.
 
