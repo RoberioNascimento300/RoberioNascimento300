@@ -25,15 +25,14 @@
          <img align="center" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
          <img align="center" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 
-         
+       ### Últimos Commits
+
+
+
+  
          
 </div><br><br>
 
 Apaixonado por Tecnologia e prestando suporte ágil ao usuário final.
-
-### Últimos Commits
-
-| Hash                         | Mensagem do Commit              | Autor               | Data               |
-|------------------------------|----------------------------------|---------------------|--------------------|
 
 
