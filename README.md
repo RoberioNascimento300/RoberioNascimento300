@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Robério Nascimento 👋</h1>
 
 <p align="center">
-💻 DevOps | ☁️ Cloud | ⚙️ Kubernetes | 🚀 Em transição para Desenvolvimento Java/Cloud
+💻 DevOps | ☁️ Cloud | ⚙️ Kubernetes | 🚀 Em transição para DevOps
 </p>
 
 <p align="center">
