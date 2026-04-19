@@ -90,8 +90,8 @@ Atuar como **DevOps Engineer / Cloud Engineer / Desenvolvedor Java Cloud**, cont
 
 ## 🤝 Vamos nos conectar?
 
-💼 LinkedIn: https://www.linkedin.com/in/roberionascimentodesenvolvedor/  
-📧 Email: seuemail@email.com  
+💼 LinkedIn: https://www.linkedin.com/in/roberiobenevides/  
+📧 Email: roberio_dsn@hotmail.com  
 
 ---
 
