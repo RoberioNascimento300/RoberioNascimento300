@@ -20,9 +20,8 @@
 
 ## 🧠 Sobre mim
 
-🔹 Experiência sólida em suporte técnico e infraestrutura  
+🔹 Experiência sólida em suporte técnico  
 🔹 Foco atual em **DevOps, Kubernetes e Cloud Computing**  
-🔹 Em transição para **Desenvolvedor Java / Cloud**  
 🔹 Pós-graduação em Engenharia de Software (Métodos Ágeis)  
 🔹 Apaixonado por automação, escalabilidade e boas práticas  
 
