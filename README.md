@@ -1,40 +1,99 @@
-### Olá! Eu sou o Robério Nascimento 👋
+<h1 align="center">Olá, eu sou o Robério Nascimento 👋</h1>
 
-[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberionascimentodesenvolvedor/?originalSubdomain=br)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoberioNascimento300)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
+<p align="center">
+💻 DevOps | ☁️ Cloud | ⚙️ Kubernetes | 🚀 Em transição para Desenvolvimento Java/Cloud
+</p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/roberionascimentodesenvolvedor/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/RoberioNascimento300">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+</p>
 
+---
 
-![Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=RoberioNascimento300&show_icons=true&theme=radical&cache_seconds=1800)
+## 🧠 Sobre mim
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoberioNascimento300&layout=compact&cache_seconds=1800)
+🔹 Experiência sólida em suporte técnico e infraestrutura  
+🔹 Foco atual em **DevOps, Kubernetes e Cloud Computing**  
+🔹 Em transição para **Desenvolvedor Java / Cloud**  
+🔹 Pós-graduação em Engenharia de Software (Métodos Ágeis)  
+🔹 Apaixonado por automação, escalabilidade e boas práticas  
 
+---
 
+## ⚙️ Tech Stack
 
-## Tecnologias que eu uso no meu dia
+### 🚀 DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div style="display: inline_block"></br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-      <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-       <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-         <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-         <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-         <img align="center" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-         <img align="center" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-         <img align="center" alt="angularjs" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-         <img align="center" alt="angularjs" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+### 💻 Desenvolvimento
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-   
+### 🌐 Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
 
+---
 
+## 📊 Estatísticas GitHub
 
-  
-         
-</div><br><br>
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RoberioNascimento300&show_icons=true&theme=radical&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberioNascimento300&layout=compact&theme=radical&cache_seconds=1800"/>
+</p>
 
-Apaixonado por Tecnologia e prestando suporte ágil ao usuário final.
+---
 
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RoberioNascimento300&theme=radical&cache_seconds=1800"/>
+</p>
+
+---
+
+## 🏆 Conquistas
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RoberioNascimento300&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoberioNascimento300&theme=react-dark"/>
+</p>
+
+---
+
+## 🚀 Objetivo
+
+Atuar como **DevOps Engineer / Cloud Engineer / Desenvolvedor Java Cloud**, contribuindo com automação, CI/CD, containers e arquitetura escalável.
+
+---
+
+## 🤝 Vamos nos conectar?
+
+💼 LinkedIn: https://www.linkedin.com/in/roberionascimentodesenvolvedor/  
+📧 Email: seuemail@email.com  
+
+---
+
+⭐ Se curtir meu perfil, não esqueça de deixar uma estrela nos repositórios!
 
