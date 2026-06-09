@@ -54,10 +54,10 @@
 
 <div align="center">
   <a href="https://github.com/RoberioNascimento300">
-    <img src="https://github-readme-stats.com/api?username=RoberioNascimento300&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats-two-chi-66.vercel.app/api?username=RoberioNascimento300&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/RoberioNascimento300">
-    <img src="https://github-readme-stats.com/api/top-langs/?username=RoberioNascimento300&layout=compact&theme=radical" alt="Top Langs" height="180" />
+    <img src="https://github-readme-stats-two-chi-66.vercel.app/api/top-langs/?username=RoberioNascimento300&layout=compact&theme=radical" alt="Top Langs" height="180" />
   </a>
 </div>
 
