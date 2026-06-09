@@ -48,12 +48,17 @@
 
 ---
 
+
+
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RoberioNascimento300&show_icons=true&theme=radical&cache_seconds=1800"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberioNascimento300&layout=compact&theme=radical&cache_seconds=1800"/>
-</p>
+<div align="center">
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoberioNascimento300&show_icons=true&theme=radical)](https://github.com/RoberioNascimento300)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoberioNascimento300&layout=compact&theme=radical)](https://github.com/RoberioNascimento300)
+  
+</div>
 
 ---
 
