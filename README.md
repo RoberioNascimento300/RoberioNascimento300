@@ -76,14 +76,6 @@
 
 
 
-## 📈 Atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoberioNascimento300&theme=react-dark"/>
-</p>
-
----
-
 ## 🚀 Objetivo
 
 Atuar como **DevOps Engineer / Cloud Engineer / Desenvolvedor Java Cloud**, contribuindo com automação, CI/CD, containers e arquitetura escalável.
